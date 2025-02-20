@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou a Gerciane</h1>
-<h3 align="center">Apaixonada por análise e desenvolvimento no mundo digital</h3>
+<h3 align="center">Aprendendo sobre análise e desenvolvimento no mundo digital</h3>
 
 - 🌱 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas**
 
-- 📫 Você me acha **gercianecabralof@gmail.com**
+- 📫 Você pode me encontrar através do e-mail **gercianecabralof@gmail.com**
 
 - 📄 Conheça minhas experiências [www.linkedin.com/in/gerciane-cabral-9b589b325](www.linkedin.com/in/gerciane-cabral-9b589b325)
 
